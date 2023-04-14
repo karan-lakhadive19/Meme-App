@@ -26,6 +26,9 @@ class _MemeState extends State<Meme> {
           ),
         ),
       ),
+      body: Container(
+        child: Text('Hello world'),
+      ),
     );
   }
 }
