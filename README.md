@@ -1,6 +1,13 @@
-# meme
+# MemeHub
 
-A new Flutter project.
+MemeHub is an app where you can explore the new memes from reddit and share it amongst your friends.
+
+Used API:
+https://meme-api.com/gimme
+
+Screenshot:
+![1](https://user-images.githubusercontent.com/128177210/232280921-7423265b-6be3-444c-8ab1-0cb0dccde03f.png)
+
 
 ## Getting Started
 
